@@ -1,13 +1,8 @@
-#Installation / setup for DXF2PLT
-
-= Introduction =
-
-DXF2PLT is a simple tool for creation of AVEVA plot files for PDMS etc.
-
+#summary Installation / setup for DXF2PLT
 
 = Installation =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Only unzip the archive, you've downloaded.
+
+
+= Setup =
